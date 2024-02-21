@@ -1,5 +1,5 @@
 
-# GCPArcadeHelper
+# GCP Arcade Helper
 
 This Google Cloud Arcade Event Helper helps people during the arcade events conducted during every year each month. Any new feature contribution which will help people during the event is much appreciated.
 
